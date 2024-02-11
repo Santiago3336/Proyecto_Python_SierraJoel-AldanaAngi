@@ -1,3 +1,3 @@
 print('¿Quien eres?')
 
-roles=(input(''))
+roles = input('')
