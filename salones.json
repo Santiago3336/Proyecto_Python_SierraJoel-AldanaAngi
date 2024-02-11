@@ -1,0 +1,20 @@
+{
+    "spunik": [
+        {"6-10 am": "Clase_1"},
+        {"10 am-2 pm": "Clase_2"},
+        {"2-6 pm": "Clase_3"},
+        {"6-10 pm": "Clase_4"}
+      ],
+    "artemis": [
+        {"6-10 am": "Clase_1"},
+        {"10 am-2 pm": "Clase_2"},
+        {"2-6 pm": "Clase_3"},
+        {"6-10 pm": "Clase_4"}
+      ],
+    "apolo": [
+        {"6-10 am": "Clase_1"},
+        {"10 am-2 pm": "Clase_2"},
+        {"2-6 pm": "Clase_3"},
+        {"6-10 pm": "Clase_4"}
+    ]
+    }

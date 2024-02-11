@@ -2,8 +2,8 @@ import json
 
 action = str
 
-def nextId():
-    id + 1
+def nextId(id):
+    return id + 1
 
 
 def coordinador():
